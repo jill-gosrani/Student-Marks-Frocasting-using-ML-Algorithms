@@ -10,8 +10,6 @@
     ii)requirements.txt
 7. Created a new folder "src" and the __init__ constructor
 
-Descriptions of these files needed to be added
-
 ## Setup.py
 Responsible for creating this Machine Learning Application as a package, which can be deployed on `https://pypi.org/` and used by others.
 
@@ -49,3 +47,4 @@ Here's a brief explanation of how `find_packages()` works:
 
 4) The function returns the list of packages found.
 
+## Problem Statement

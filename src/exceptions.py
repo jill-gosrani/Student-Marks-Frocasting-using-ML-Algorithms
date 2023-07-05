@@ -2,6 +2,7 @@
 
 import sys #this library will have the information of any exceptions
 import logging
+from src.logger import logging
 
 def error_message_detail(error,error_detail:sys):
     _,_,exc_tb = error_detail.exc_info() ## erc_tb will have the information like which file and line of code the exception has occured.
